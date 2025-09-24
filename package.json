@@ -1,0 +1,9 @@
+{
+  "name": "better-auth-infer-bug",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "better-auth": "1.3.5"
+  }
+}
